@@ -1,4 +1,5 @@
 def isOdd(value):
+ def isOdd(value):
     """
     判断输入是否为奇整数
     参数:
